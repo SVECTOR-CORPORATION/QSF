@@ -1,6 +1,5 @@
 # Quantum Symmetry Factorization (QSF) with Symmetric Decomposition Method (SDM)
-
-QSF leverages group theory and modular arithmetic principles, enhanced by the Symmetric Decomposition Method (SDM). This novel approach focuses on symmetry-based patterns within modular systems, enabling rapid elimination of non-factors and identification of high-probability candidates. By combining classical and quantum frameworks, SDM replaces traditional GCD operations, offering scalable and efficient solutions for integer factorization.
+## QSF leverages group theory and modular arithmetic principles, enhanced by the Symmetric Decomposition Method (SDM). This novel approach focuses on symmetry-based patterns within modular systems, enabling rapid elimination of non-factors and identification of high-probability candidates. By combining classical and quantum frameworks, SDM replaces traditional GCD operations, offering scalable and efficient solutions for integer factorization.  
 ---
 
 ## Description
