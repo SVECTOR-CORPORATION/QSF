@@ -1,6 +1,6 @@
-# Quantum-Symmetry-Factorization (QSF)
-QSF is based on group theory and modular arithmetic principles. The algorithm uses a symmetry-based approach, meaning it focuses on patterns and properties in the modular system that repeat. By focusing on values that align with these patterns, QSF can quickly eliminate non-factors and focus on high-probability candidates.
+# Quantum Symmetry Factorization (QSF) with Symmetric Decomposition Method (SDM)
 
+QSF leverages group theory and modular arithmetic principles, enhanced by the Symmetric Decomposition Method (SDM). This novel approach focuses on symmetry-based patterns within modular systems, enabling rapid elimination of non-factors and identification of high-probability candidates. By combining classical and quantum frameworks, SDM replaces traditional GCD operations, offering scalable and efficient solutions for integer factorization.
 ---
 
 ## Description
