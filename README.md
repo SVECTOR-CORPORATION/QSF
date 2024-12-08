@@ -258,6 +258,7 @@ This project is licensed under the MIT License - see the  [LICENSE](LICENSE) fil
 ## Further Reading
 
 - **QSF Research Paper**: [QSF.pdf](QSF.pdf)
+- **SDM Research Paper**: [QSF.pdf](QSF_SDM.pdf)
 - **Quantum Computing and Factorization**: Insights into how quantum algorithms are transforming cryptographic applications.
 - **Group Theory and Modular Arithmetic**: For further mathematical background on the concepts behind QSF.
 
